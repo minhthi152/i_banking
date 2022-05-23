@@ -128,6 +128,13 @@ input.error {
     border: solid 1px red;
 }
 
-.div-create-btn{
-    margin-top: 16px;
+
+#recipient_id {
+    min-height: 38px;
+    width: 100%;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    padding: 5px 5px;
 }
+
+             
